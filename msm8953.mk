@@ -297,6 +297,7 @@ PRODUCT_PACKAGES += \
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.msm.usb.configfs.rc \
+    init.performance_level.rc \
     init.qcom.rc \
     init.qcom.usb.rc \
     init.target.rc \
